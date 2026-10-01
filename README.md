@@ -137,4 +137,4 @@ Army Public School and College System, Attock Cantt, Pakistan<br>
 - **Portfolio:** [nalainmuhammad.me](https://www.nalainmuhammad.me/)
 - **GitHub:** [@nalainmuhammad](https://github.com/nalainmuhammad)
 - **LinkedIn:** [Nalain Muhammad](https://www.linkedin.com/in/nalain-muhammad-b50a5830b)
-- **Email:** [nalainbhatti6@gmail.com](mailto:nalainbhatti6@gmail.com)sssssss
+- **Email:** [nalainbhatti6@gmail.com](mailto:nalainbhatti6@gmail.com)
